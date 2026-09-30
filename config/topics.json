@@ -1,0 +1,103 @@
+{
+   "topics": {
+      "Array": [
+         "array"
+      ],
+      "String": [
+         "string"
+      ],
+      "Hash Table": [
+         "hash-table"
+      ],
+      "Linked List": [
+         "linked-list"
+      ],
+      "Stack": [
+         "stack"
+      ],
+      "Queue": [
+         "queue"
+      ],
+      "Tree": [
+         "tree"
+      ],
+      "Binary Tree": [
+         "binary-tree"
+      ],
+      "Binary Search Tree": [
+         "binary-search-tree"
+      ],
+      "Heap / Priority Queue": [
+         "heap",
+         "priority-queue"
+      ],
+      "Graph": [
+         "graph"
+      ],
+      "Trie": [
+         "trie"
+      ],
+      "Binary Search": [
+         "binary-search"
+      ],
+      "Two Pointers": [
+         "two-pointers"
+      ],
+      "Sliding Window": [
+         "sliding-window"
+      ],
+      "Prefix Sum": [
+         "prefix-sum"
+      ],
+      "Backtracking": [
+         "backtracking"
+      ],
+      "Dynamic Programming": [
+         "dynamic-programming"
+      ],
+      "Greedy": [
+         "greedy"
+      ],
+      "Sorting": [
+         "sorting"
+      ],
+      "Recursion": [
+         "recursion"
+      ],
+      "Bit Manipulation": [
+         "bit-manipulation"
+      ],
+      "Math": [
+         "math"
+      ],
+      "Matrix": [
+         "matrix"
+      ]
+   },
+   "primary_topic_priority": [
+      "Array",
+      "String",
+      "Hash Table",
+      "Linked List",
+      "Stack",
+      "Queue",
+      "Tree",
+      "Binary Tree",
+      "Binary Search Tree",
+      "Heap / Priority Queue",
+      "Graph",
+      "Trie",
+      "Matrix",
+      "Binary Search",
+      "Two Pointers",
+      "Sliding Window",
+      "Prefix Sum",
+      "Backtracking",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting",
+      "Recursion",
+      "Bit Manipulation",
+      "Math"
+   ]
+}
