@@ -66,5 +66,21 @@
         "slug": "binary-search"
       }
     ]
+  },
+  "move-zeroes": {
+    "questionFrontendId": "283",
+    "title": "Move Zeroes",
+    "titleSlug": "move-zeroes",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
   }
 }

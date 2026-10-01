@@ -6,10 +6,10 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 4 |
+| Easy | 5 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total** | **4** |
+| **Total** | **5** |
 
 ## 📚 Problems by Topic
 
@@ -20,6 +20,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | 26 | Remove Duplicates from Sorted Array | Easy | [Solution](./Array/0026-remove-duplicates-from-sorted-array) |
 | 35 | Search Insert Position | Easy | [Solution](./Array/0035-search-insert-position) |
 | 88 | Merge Sorted Array | Easy | [Solution](./Array/0088-merge-sorted-array) |
+| 283 | Move Zeroes | Easy | [Solution](./Array/0283-move-zeroes) |
 | 704 | Binary Search | Easy | [Solution](./Array/0704-binary-search) |
 
 ### Binary Search
@@ -35,6 +36,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 |---:|---|---|---|
 | 26 | Remove Duplicates from Sorted Array | Easy | [Solution](./Array/0026-remove-duplicates-from-sorted-array) |
 | 88 | Merge Sorted Array | Easy | [Solution](./Array/0088-merge-sorted-array) |
+| 283 | Move Zeroes | Easy | [Solution](./Array/0283-move-zeroes) |
 
 ### Sorting
 
