@@ -82,5 +82,21 @@
         "slug": "two-pointers"
       }
     ]
+  },
+  "plus-one": {
+    "questionFrontendId": "66",
+    "title": "Plus One",
+    "titleSlug": "plus-one",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
   }
 }
