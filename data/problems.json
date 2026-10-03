@@ -98,5 +98,37 @@
         "slug": "math"
       }
     ]
+  },
+  "find-the-kth-largest-integer-in-the-array": {
+    "questionFrontendId": "1985",
+    "title": "Find the Kth Largest Integer in the Array",
+    "titleSlug": "find-the-kth-largest-integer-in-the-array",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Quickselect",
+        "slug": "quickselect"
+      }
+    ]
   }
 }

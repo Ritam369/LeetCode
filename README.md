@@ -7,9 +7,9 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | Difficulty | Solved |
 |---|---:|
 | Easy | 6 |
-| Medium | 0 |
+| Medium | 1 |
 | Hard | 0 |
-| **Total** | **6** |
+| **Total** | **7** |
 
 ## 📚 Problems by Topic
 
@@ -23,6 +23,13 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | 88 | Merge Sorted Array | Easy | [Solution](./Array/0088-merge-sorted-array) |
 | 283 | Move Zeroes | Easy | [Solution](./Array/0283-move-zeroes) |
 | 704 | Binary Search | Easy | [Solution](./Array/0704-binary-search) |
+| 1985 | Find the Kth Largest Integer in the Array | Medium | [Solution](./Array/1985-find-the-kth-largest-integer-in-the-array) |
+
+### String
+
+| # | Problem | Difficulty | Solution |
+|---:|---|---|---|
+| 1985 | Find the Kth Largest Integer in the Array | Medium | [Solution](./Array/1985-find-the-kth-largest-integer-in-the-array) |
 
 ### Binary Search
 
@@ -44,6 +51,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | # | Problem | Difficulty | Solution |
 |---:|---|---|---|
 | 88 | Merge Sorted Array | Easy | [Solution](./Array/0088-merge-sorted-array) |
+| 1985 | Find the Kth Largest Integer in the Array | Medium | [Solution](./Array/1985-find-the-kth-largest-integer-in-the-array) |
 
 ### Math
 
