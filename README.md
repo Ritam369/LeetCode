@@ -6,10 +6,10 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 6 |
+| Easy | 7 |
 | Medium | 1 |
 | Hard | 0 |
-| **Total** | **7** |
+| **Total** | **8** |
 
 ## 📚 Problems by Topic
 
@@ -21,6 +21,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | 35 | Search Insert Position | Easy | [Solution](./Array/0035-search-insert-position) |
 | 66 | Plus One | Easy | [Solution](./Array/0066-plus-one) |
 | 88 | Merge Sorted Array | Easy | [Solution](./Array/0088-merge-sorted-array) |
+| 121 | Best Time to Buy and Sell Stock | Easy | [Solution](./Array/0121-best-time-to-buy-and-sell-stock) |
 | 283 | Move Zeroes | Easy | [Solution](./Array/0283-move-zeroes) |
 | 704 | Binary Search | Easy | [Solution](./Array/0704-binary-search) |
 | 1985 | Find the Kth Largest Integer in the Array | Medium | [Solution](./Array/1985-find-the-kth-largest-integer-in-the-array) |
@@ -45,6 +46,12 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | 26 | Remove Duplicates from Sorted Array | Easy | [Solution](./Array/0026-remove-duplicates-from-sorted-array) |
 | 88 | Merge Sorted Array | Easy | [Solution](./Array/0088-merge-sorted-array) |
 | 283 | Move Zeroes | Easy | [Solution](./Array/0283-move-zeroes) |
+
+### Dynamic Programming
+
+| # | Problem | Difficulty | Solution |
+|---:|---|---|---|
+| 121 | Best Time to Buy and Sell Stock | Easy | [Solution](./Array/0121-best-time-to-buy-and-sell-stock) |
 
 ### Sorting
 
