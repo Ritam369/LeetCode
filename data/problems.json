@@ -146,5 +146,33 @@
         "slug": "dynamic-programming"
       }
     ]
+  },
+  "sort-colors": {
+    "questionFrontendId": "75",
+    "title": "Sort Colors",
+    "titleSlug": "sort-colors",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Quicksort",
+        "slug": "quicksort"
+      },
+      {
+        "name": "Bubble Sort",
+        "slug": "bubble-sort"
+      }
+    ]
   }
 }
