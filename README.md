@@ -6,10 +6,10 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 7 |
+| Easy | 8 |
 | Medium | 2 |
 | Hard | 0 |
-| **Total** | **9** |
+| **Total** | **10** |
 
 ## 📚 Problems by Topic
 
@@ -24,6 +24,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | 88 | Merge Sorted Array | Easy | [Solution](./Array/0088-merge-sorted-array) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [Solution](./Array/0121-best-time-to-buy-and-sell-stock) |
 | 283 | Move Zeroes | Easy | [Solution](./Array/0283-move-zeroes) |
+| 463 | Island Perimeter | Easy | [Solution](./Array/0463-island-perimeter) |
 | 704 | Binary Search | Easy | [Solution](./Array/0704-binary-search) |
 | 1985 | Find the Kth Largest Integer in the Array | Medium | [Solution](./Array/1985-find-the-kth-largest-integer-in-the-array) |
 
@@ -32,6 +33,12 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | # | Problem | Difficulty | Solution |
 |---:|---|---|---|
 | 1985 | Find the Kth Largest Integer in the Array | Medium | [Solution](./Array/1985-find-the-kth-largest-integer-in-the-array) |
+
+### Matrix
+
+| # | Problem | Difficulty | Solution |
+|---:|---|---|---|
+| 463 | Island Perimeter | Easy | [Solution](./Array/0463-island-perimeter) |
 
 ### Binary Search
 

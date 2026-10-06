@@ -174,5 +174,29 @@
         "slug": "bubble-sort"
       }
     ]
+  },
+  "island-perimeter": {
+    "questionFrontendId": "463",
+    "title": "Island Perimeter",
+    "titleSlug": "island-perimeter",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
   }
 }
