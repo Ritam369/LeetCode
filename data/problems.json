@@ -198,5 +198,37 @@
         "slug": "matrix"
       }
     ]
+  },
+  "majority-element": {
+    "questionFrontendId": "169",
+    "title": "Majority Element",
+    "titleSlug": "majority-element",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Boyer–Moore Majority Vote Algorithm",
+        "slug": "boyer-moore-majority-vote-algorithm"
+      }
+    ]
   }
 }
