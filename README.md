@@ -7,9 +7,9 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | Difficulty | Solved |
 |---|---:|
 | Easy | 9 |
-| Medium | 2 |
+| Medium | 3 |
 | Hard | 0 |
-| **Total** | **11** |
+| **Total** | **12** |
 
 ## 📚 Problems by Topic
 
@@ -19,6 +19,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 |---:|---|---|---|
 | 26 | Remove Duplicates from Sorted Array | Easy | [Solution](./Array/0026-remove-duplicates-from-sorted-array) |
 | 35 | Search Insert Position | Easy | [Solution](./Array/0035-search-insert-position) |
+| 53 | Maximum Subarray | Medium | [Solution](./Array/0053-maximum-subarray) |
 | 66 | Plus One | Easy | [Solution](./Array/0066-plus-one) |
 | 75 | Sort Colors | Medium | [Solution](./Array/0075-sort-colors) |
 | 88 | Merge Sorted Array | Easy | [Solution](./Array/0088-merge-sorted-array) |
@@ -67,6 +68,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | # | Problem | Difficulty | Solution |
 |---:|---|---|---|
+| 53 | Maximum Subarray | Medium | [Solution](./Array/0053-maximum-subarray) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [Solution](./Array/0121-best-time-to-buy-and-sell-stock) |
 
 ### Sorting

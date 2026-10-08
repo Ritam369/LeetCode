@@ -230,5 +230,25 @@
         "slug": "boyer-moore-majority-vote-algorithm"
       }
     ]
+  },
+  "maximum-subarray": {
+    "questionFrontendId": "53",
+    "title": "Maximum Subarray",
+    "titleSlug": "maximum-subarray",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
   }
 }
