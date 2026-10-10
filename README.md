@@ -8,8 +8,8 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 |---|---:|
 | Easy | 10 |
 | Medium | 3 |
-| Hard | 0 |
-| **Total** | **13** |
+| Hard | 1 |
+| **Total** | **14** |
 
 ## 📚 Problems by Topic
 
@@ -19,6 +19,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 |---:|---|---|---|
 | 26 | Remove Duplicates from Sorted Array | Easy | [Solution](./Array/0026-remove-duplicates-from-sorted-array) |
 | 35 | Search Insert Position | Easy | [Solution](./Array/0035-search-insert-position) |
+| 42 | Trapping Rain Water | Hard | [Solution](./Array/0042-trapping-rain-water) |
 | 53 | Maximum Subarray | Medium | [Solution](./Array/0053-maximum-subarray) |
 | 66 | Plus One | Easy | [Solution](./Array/0066-plus-one) |
 | 75 | Sort Colors | Medium | [Solution](./Array/0075-sort-colors) |
@@ -44,6 +45,12 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | 169 | Majority Element | Easy | [Solution](./Array/0169-majority-element) |
 | 349 | Intersection of Two Arrays | Easy | [Solution](./Array/0349-intersection-of-two-arrays) |
 
+### Stack
+
+| # | Problem | Difficulty | Solution |
+|---:|---|---|---|
+| 42 | Trapping Rain Water | Hard | [Solution](./Array/0042-trapping-rain-water) |
+
 ### Matrix
 
 | # | Problem | Difficulty | Solution |
@@ -63,6 +70,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | # | Problem | Difficulty | Solution |
 |---:|---|---|---|
 | 26 | Remove Duplicates from Sorted Array | Easy | [Solution](./Array/0026-remove-duplicates-from-sorted-array) |
+| 42 | Trapping Rain Water | Hard | [Solution](./Array/0042-trapping-rain-water) |
 | 75 | Sort Colors | Medium | [Solution](./Array/0075-sort-colors) |
 | 88 | Merge Sorted Array | Easy | [Solution](./Array/0088-merge-sorted-array) |
 | 283 | Move Zeroes | Easy | [Solution](./Array/0283-move-zeroes) |
@@ -72,6 +80,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | # | Problem | Difficulty | Solution |
 |---:|---|---|---|
+| 42 | Trapping Rain Water | Hard | [Solution](./Array/0042-trapping-rain-water) |
 | 53 | Maximum Subarray | Medium | [Solution](./Array/0053-maximum-subarray) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [Solution](./Array/0121-best-time-to-buy-and-sell-stock) |
 
