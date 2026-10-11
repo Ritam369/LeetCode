@@ -306,5 +306,25 @@
         "slug": "monotonic-stack"
       }
     ]
+  },
+  "rotate-array": {
+    "questionFrontendId": "189",
+    "title": "Rotate Array",
+    "titleSlug": "rotate-array",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
   }
 }

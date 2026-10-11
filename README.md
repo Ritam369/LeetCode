@@ -7,9 +7,9 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | Difficulty | Solved |
 |---|---:|
 | Easy | 10 |
-| Medium | 3 |
+| Medium | 4 |
 | Hard | 1 |
-| **Total** | **14** |
+| **Total** | **15** |
 
 ## 📚 Problems by Topic
 
@@ -26,6 +26,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | 88 | Merge Sorted Array | Easy | [Solution](./Array/0088-merge-sorted-array) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [Solution](./Array/0121-best-time-to-buy-and-sell-stock) |
 | 169 | Majority Element | Easy | [Solution](./Array/0169-majority-element) |
+| 189 | Rotate Array | Medium | [Solution](./Array/0189-rotate-array) |
 | 283 | Move Zeroes | Easy | [Solution](./Array/0283-move-zeroes) |
 | 349 | Intersection of Two Arrays | Easy | [Solution](./Array/0349-intersection-of-two-arrays) |
 | 463 | Island Perimeter | Easy | [Solution](./Array/0463-island-perimeter) |
@@ -73,6 +74,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | 42 | Trapping Rain Water | Hard | [Solution](./Array/0042-trapping-rain-water) |
 | 75 | Sort Colors | Medium | [Solution](./Array/0075-sort-colors) |
 | 88 | Merge Sorted Array | Easy | [Solution](./Array/0088-merge-sorted-array) |
+| 189 | Rotate Array | Medium | [Solution](./Array/0189-rotate-array) |
 | 283 | Move Zeroes | Easy | [Solution](./Array/0283-move-zeroes) |
 | 349 | Intersection of Two Arrays | Easy | [Solution](./Array/0349-intersection-of-two-arrays) |
 
@@ -99,3 +101,4 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | # | Problem | Difficulty | Solution |
 |---:|---|---|---|
 | 66 | Plus One | Easy | [Solution](./Array/0066-plus-one) |
+| 189 | Rotate Array | Medium | [Solution](./Array/0189-rotate-array) |
