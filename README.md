@@ -6,10 +6,10 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 10 |
+| Easy | 11 |
 | Medium | 4 |
 | Hard | 1 |
-| **Total** | **15** |
+| **Total** | **16** |
 
 ## 📚 Problems by Topic
 
@@ -17,6 +17,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | # | Problem | Difficulty | Solution |
 |---:|---|---|---|
+| 1 | Two Sum | Easy | [Solution](./Array/0001-two-sum) |
 | 26 | Remove Duplicates from Sorted Array | Easy | [Solution](./Array/0026-remove-duplicates-from-sorted-array) |
 | 35 | Search Insert Position | Easy | [Solution](./Array/0035-search-insert-position) |
 | 42 | Trapping Rain Water | Hard | [Solution](./Array/0042-trapping-rain-water) |
@@ -43,6 +44,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | # | Problem | Difficulty | Solution |
 |---:|---|---|---|
+| 1 | Two Sum | Easy | [Solution](./Array/0001-two-sum) |
 | 169 | Majority Element | Easy | [Solution](./Array/0169-majority-element) |
 | 349 | Intersection of Two Arrays | Easy | [Solution](./Array/0349-intersection-of-two-arrays) |
 
