@@ -7,9 +7,9 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | Difficulty | Solved |
 |---|---:|
 | Easy | 11 |
-| Medium | 4 |
+| Medium | 5 |
 | Hard | 1 |
-| **Total** | **16** |
+| **Total** | **17** |
 
 ## 📚 Problems by Topic
 
@@ -22,6 +22,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | 35 | Search Insert Position | Easy | [Solution](./Array/0035-search-insert-position) |
 | 42 | Trapping Rain Water | Hard | [Solution](./Array/0042-trapping-rain-water) |
 | 53 | Maximum Subarray | Medium | [Solution](./Array/0053-maximum-subarray) |
+| 54 | Spiral Matrix | Medium | [Solution](./Array/0054-spiral-matrix) |
 | 66 | Plus One | Easy | [Solution](./Array/0066-plus-one) |
 | 75 | Sort Colors | Medium | [Solution](./Array/0075-sort-colors) |
 | 88 | Merge Sorted Array | Easy | [Solution](./Array/0088-merge-sorted-array) |
@@ -58,6 +59,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | # | Problem | Difficulty | Solution |
 |---:|---|---|---|
+| 54 | Spiral Matrix | Medium | [Solution](./Array/0054-spiral-matrix) |
 | 463 | Island Perimeter | Easy | [Solution](./Array/0463-island-perimeter) |
 
 ### Binary Search

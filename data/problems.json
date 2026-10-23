@@ -342,5 +342,25 @@
         "slug": "hash-table"
       }
     ]
+  },
+  "spiral-matrix": {
+    "questionFrontendId": "54",
+    "title": "Spiral Matrix",
+    "titleSlug": "spiral-matrix",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
   }
 }
