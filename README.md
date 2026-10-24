@@ -6,10 +6,10 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 11 |
+| Easy | 12 |
 | Medium | 5 |
 | Hard | 1 |
-| **Total** | **17** |
+| **Total** | **18** |
 
 ## 📚 Problems by Topic
 
@@ -32,6 +32,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | 283 | Move Zeroes | Easy | [Solution](./Array/0283-move-zeroes) |
 | 349 | Intersection of Two Arrays | Easy | [Solution](./Array/0349-intersection-of-two-arrays) |
 | 463 | Island Perimeter | Easy | [Solution](./Array/0463-island-perimeter) |
+| 506 | Relative Ranks | Easy | [Solution](./Array/0506-relative-ranks) |
 | 704 | Binary Search | Easy | [Solution](./Array/0704-binary-search) |
 | 1985 | Find the Kth Largest Integer in the Array | Medium | [Solution](./Array/1985-find-the-kth-largest-integer-in-the-array) |
 
@@ -98,6 +99,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | 88 | Merge Sorted Array | Easy | [Solution](./Array/0088-merge-sorted-array) |
 | 169 | Majority Element | Easy | [Solution](./Array/0169-majority-element) |
 | 349 | Intersection of Two Arrays | Easy | [Solution](./Array/0349-intersection-of-two-arrays) |
+| 506 | Relative Ranks | Easy | [Solution](./Array/0506-relative-ranks) |
 | 1985 | Find the Kth Largest Integer in the Array | Medium | [Solution](./Array/1985-find-the-kth-largest-integer-in-the-array) |
 
 ### Math

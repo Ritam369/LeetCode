@@ -362,5 +362,25 @@
         "slug": "simulation"
       }
     ]
+  },
+  "relative-ranks": {
+    "questionFrontendId": "506",
+    "title": "Relative Ranks",
+    "titleSlug": "relative-ranks",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ]
   }
 }
