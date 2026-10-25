@@ -382,5 +382,25 @@
         "slug": "heap-priority-queue"
       }
     ]
+  },
+  "3sum": {
+    "questionFrontendId": "15",
+    "title": "3Sum",
+    "titleSlug": "3sum",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
   }
 }

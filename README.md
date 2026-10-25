@@ -7,9 +7,9 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | Difficulty | Solved |
 |---|---:|
 | Easy | 12 |
-| Medium | 5 |
+| Medium | 6 |
 | Hard | 1 |
-| **Total** | **18** |
+| **Total** | **19** |
 
 ## 📚 Problems by Topic
 
@@ -18,6 +18,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | # | Problem | Difficulty | Solution |
 |---:|---|---|---|
 | 1 | Two Sum | Easy | [Solution](./Array/0001-two-sum) |
+| 15 | 3Sum | Medium | [Solution](./Array/0015-3sum) |
 | 26 | Remove Duplicates from Sorted Array | Easy | [Solution](./Array/0026-remove-duplicates-from-sorted-array) |
 | 35 | Search Insert Position | Easy | [Solution](./Array/0035-search-insert-position) |
 | 42 | Trapping Rain Water | Hard | [Solution](./Array/0042-trapping-rain-water) |
@@ -75,6 +76,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | # | Problem | Difficulty | Solution |
 |---:|---|---|---|
+| 15 | 3Sum | Medium | [Solution](./Array/0015-3sum) |
 | 26 | Remove Duplicates from Sorted Array | Easy | [Solution](./Array/0026-remove-duplicates-from-sorted-array) |
 | 42 | Trapping Rain Water | Hard | [Solution](./Array/0042-trapping-rain-water) |
 | 75 | Sort Colors | Medium | [Solution](./Array/0075-sort-colors) |
@@ -95,6 +97,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | # | Problem | Difficulty | Solution |
 |---:|---|---|---|
+| 15 | 3Sum | Medium | [Solution](./Array/0015-3sum) |
 | 75 | Sort Colors | Medium | [Solution](./Array/0075-sort-colors) |
 | 88 | Merge Sorted Array | Easy | [Solution](./Array/0088-merge-sorted-array) |
 | 169 | Majority Element | Easy | [Solution](./Array/0169-majority-element) |
