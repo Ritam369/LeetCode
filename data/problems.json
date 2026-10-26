@@ -402,5 +402,21 @@
         "slug": "sorting"
       }
     ]
+  },
+  "check-if-two-string-arrays-are-equivalent": {
+    "questionFrontendId": "1662",
+    "title": "Check If Two String Arrays are Equivalent",
+    "titleSlug": "check-if-two-string-arrays-are-equivalent",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
   }
 }
