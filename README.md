@@ -6,10 +6,10 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 13 |
+| Easy | 14 |
 | Medium | 6 |
 | Hard | 1 |
-| **Total** | **20** |
+| **Total** | **21** |
 
 ## 📚 Problems by Topic
 
@@ -111,5 +111,6 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | # | Problem | Difficulty | Solution |
 |---:|---|---|---|
+| 9 | Palindrome Number | Easy | [Solution](./Math/0009-palindrome-number) |
 | 66 | Plus One | Easy | [Solution](./Array/0066-plus-one) |
 | 189 | Rotate Array | Medium | [Solution](./Array/0189-rotate-array) |

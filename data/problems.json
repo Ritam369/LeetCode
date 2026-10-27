@@ -418,5 +418,17 @@
         "slug": "string"
       }
     ]
+  },
+  "palindrome-number": {
+    "questionFrontendId": "9",
+    "title": "Palindrome Number",
+    "titleSlug": "palindrome-number",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
   }
 }
