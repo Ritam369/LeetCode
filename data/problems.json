@@ -430,5 +430,21 @@
         "slug": "math"
       }
     ]
+  },
+  "valid-palindrome": {
+    "questionFrontendId": "125",
+    "title": "Valid Palindrome",
+    "titleSlug": "valid-palindrome",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
   }
 }

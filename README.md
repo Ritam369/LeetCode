@@ -6,10 +6,10 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 14 |
+| Easy | 15 |
 | Medium | 6 |
 | Hard | 1 |
-| **Total** | **21** |
+| **Total** | **22** |
 
 ## 📚 Problems by Topic
 
@@ -42,6 +42,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | # | Problem | Difficulty | Solution |
 |---:|---|---|---|
+| 125 | Valid Palindrome | Easy | [Solution](./String/0125-valid-palindrome) |
 | 1662 | Check If Two String Arrays are Equivalent | Easy | [Solution](./Array/1662-check-if-two-string-arrays-are-equivalent) |
 | 1985 | Find the Kth Largest Integer in the Array | Medium | [Solution](./Array/1985-find-the-kth-largest-integer-in-the-array) |
 
@@ -83,6 +84,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | 42 | Trapping Rain Water | Hard | [Solution](./Array/0042-trapping-rain-water) |
 | 75 | Sort Colors | Medium | [Solution](./Array/0075-sort-colors) |
 | 88 | Merge Sorted Array | Easy | [Solution](./Array/0088-merge-sorted-array) |
+| 125 | Valid Palindrome | Easy | [Solution](./String/0125-valid-palindrome) |
 | 189 | Rotate Array | Medium | [Solution](./Array/0189-rotate-array) |
 | 283 | Move Zeroes | Easy | [Solution](./Array/0283-move-zeroes) |
 | 349 | Intersection of Two Arrays | Easy | [Solution](./Array/0349-intersection-of-two-arrays) |
