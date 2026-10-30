@@ -446,5 +446,21 @@
         "slug": "string"
       }
     ]
+  },
+  "check-if-the-sentence-is-pangram": {
+    "questionFrontendId": "1832",
+    "title": "Check if the Sentence Is Pangram",
+    "titleSlug": "check-if-the-sentence-is-pangram",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
   }
 }

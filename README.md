@@ -6,10 +6,10 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 
 | Difficulty | Solved |
 |---|---:|
-| Easy | 15 |
+| Easy | 16 |
 | Medium | 6 |
 | Hard | 1 |
-| **Total** | **22** |
+| **Total** | **23** |
 
 ## 📚 Problems by Topic
 
@@ -44,6 +44,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 |---:|---|---|---|
 | 125 | Valid Palindrome | Easy | [Solution](./String/0125-valid-palindrome) |
 | 1662 | Check If Two String Arrays are Equivalent | Easy | [Solution](./Array/1662-check-if-two-string-arrays-are-equivalent) |
+| 1832 | Check if the Sentence Is Pangram | Easy | [Solution](./String/1832-check-if-the-sentence-is-pangram) |
 | 1985 | Find the Kth Largest Integer in the Array | Medium | [Solution](./Array/1985-find-the-kth-largest-integer-in-the-array) |
 
 ### Hash Table
@@ -53,6 +54,7 @@ My LeetCode solutions, automatically organized by fundamental DSA topics.
 | 1 | Two Sum | Easy | [Solution](./Array/0001-two-sum) |
 | 169 | Majority Element | Easy | [Solution](./Array/0169-majority-element) |
 | 349 | Intersection of Two Arrays | Easy | [Solution](./Array/0349-intersection-of-two-arrays) |
+| 1832 | Check if the Sentence Is Pangram | Easy | [Solution](./String/1832-check-if-the-sentence-is-pangram) |
 
 ### Stack
 
